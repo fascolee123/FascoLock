@@ -1,0 +1,1 @@
+print("FascoLock starting...")
